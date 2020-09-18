@@ -7,10 +7,20 @@ Rostkowski_
 974, 155
 948, 250
 958, 280
-#menu, version, menu1
+#Menu, version, menu1
 1128, 112
 947, 145
 1159, 114
 #Searchbar
 457, 143
 789, 168
+#Profile PIC
+333, 300
+417, 383
+#Chatbox
+965, 677
+1197, 683
+#Copy
+401, 576
+#Chatting?
+0
